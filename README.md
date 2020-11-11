@@ -6,6 +6,12 @@
 
 Clone the repository.
 
+```bash
+git clone https://github.com/ross-u/exercise-ssr-.git
+
+cd exercise-ssr-
+```
+
 Install the packages:
 
 ```bash
@@ -15,7 +21,7 @@ npm install
 
 <br>
 
-Create a new View file named `About.jsx` used to render the About page:
+In the `views` folder` create a new View/Template file named `About.jsx` used to render the About page:
 
 - Create a new route for `GET` request with the endpoint `/about`:
 
