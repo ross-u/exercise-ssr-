@@ -7,8 +7,10 @@
 Clone the repository.
 
 ```bash
+# Clone the repository
 git clone https://github.com/ross-u/exercise-ssr-.git
 
+# Enter the folder
 cd exercise-ssr-
 ```
 
